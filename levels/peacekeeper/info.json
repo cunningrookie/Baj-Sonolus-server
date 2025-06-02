@@ -1,0 +1,10 @@
+{
+    "id": "peacekeeper",
+    "title": "PEACEKEEPER",
+    "artist": "STEREO DIVE FOUNDATION",
+    "author": "Serveur Perso",
+    "version": 1,
+    "cover": "levels/peacekeeper/cover.jpg",
+    "data": "levels/peacekeeper/data.sonolus",
+    "audio": "levels/peacekeeper/audio.mp3"
+}
